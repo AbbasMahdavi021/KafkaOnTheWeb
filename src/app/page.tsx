@@ -141,11 +141,11 @@ export default function Home() {
                 Discover the World of Kafka
               </h1>
               <p className='mt-6 text-lg leading-8 text-gray-600'>
-                Kafka On the Web is not just a small online bookstore; it is your gateway to the captivating world of Franz Kafka. Specializing in his literary works, our site allows you to explore Kafka's mesmerizing novels, thought-provoking short stories, and intriguing unfinished works. Whether you have questions, need recommendations, or want to engage in insightful discussions about Kafka, our AI chat bot is here to assist you. Feel free to utilize the chat bot for any inquiries or to enhance your Kafka experience.
+                Kafka On the Web is not just a small online bookstore; it is your gateway to the captivating world of Franz Kafka. Specializing in his literary works, our site allows you to explore Kafka&apos;s mesmerizing novels, thought-provoking short stories, and intriguing unfinished works. Whether you have questions, need recommendations, or want to engage in insightful discussions about Kafka, our AI chat bot is here to assist you. Feel free to utilize the chat bot for any inquiries or to enhance your Kafka experience.
               </p>
 
               <p className='mt-6 text-lg leading-8 text-gray-600'>
-                Due to the nature of the limited availability of our paid API key, there may be a limit to the number of API call requests our chat bot can handle. In such cases, the chat bot might not be available at all times. However, we have prepared a demonstration for you to experience the chat bot in action. Click the "Demonstration" button below to view a GIF showcasing the chat bot's capabilities.
+                Due to the nature of the limited availability of our paid API key, there may be a limit to the number of API call requests our chat bot can handle. In such cases, the chat bot might not be available at all times. However, we have prepared a demonstration for you to experience the chat bot in action. Click the &quot;Demonstration&quot; button below to view a GIF showcasing the chat bot&apos;s capabilities.
               </p><br />
 
 
@@ -178,7 +178,7 @@ export default function Home() {
                   className='rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600'
                   target='_blank'
                 >
-                  Shop Kafka's books
+                  Shop Kafka&apos;s books
                 </a>
                 <a
                   href='https://en.wikipedia.org/wiki/Franz_Kafka'

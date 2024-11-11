@@ -35,7 +35,7 @@ export default function Home() {
           className='flex items-center justify-between p-6 lg:px-8'
           aria-label='Global'>
           <div className='flex lg:flex-1'>
-            <a href='http://abbasmahdavi.com/' target='_blank' className='-m-1.5 p-1.5'>
+            <a href='https://abbasmahdavi.vercel.app/' target='_blank' className='-m-1.5 p-1.5'>
               <span className='sr-only'>Abbas Mahdavi</span>
               <img
                 className='h-16 w-auto'
